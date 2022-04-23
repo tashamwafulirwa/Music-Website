@@ -55,7 +55,10 @@
     line-height: 110px;
     float: left;
 }
-
+h2{
+font-size: 18px;
+float: left;
+}
 .right-col{
     float: right;
     margin-right: 6%;
